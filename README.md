@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+i  am chandan venugoapal 
+consultant at capgemini
 <!--
 **chandanvenugopal/chandanvenugopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
